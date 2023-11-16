@@ -1,0 +1,25 @@
+*{
+    margin:0;
+}
+
+body{
+    display: grid;
+    grid-template-columns: 0.5fr 1fr 0.5fr;
+    font-family: 'Arsenal', sans-serif;
+}
+
+.mid{
+    padding: 1rem;
+}
+
+h1{
+    font-size: 2rem;
+    padding-left: 1rem;
+}
+
+.paragraph{
+    background-color: antiquewhite;
+    height: 80vh;
+    padding: 1rem;
+    font-size: 2rem;
+}
